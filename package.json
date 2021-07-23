@@ -2,7 +2,7 @@
   "name": "music-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/tolehoai/music-app",
+  "homepage": "https://github.com/caubesin/music-app",
   "engines": {
     "node": "12.x"
   },
