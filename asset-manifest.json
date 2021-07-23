@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/caubesin/music-app/static/js/main.a6d97077.chunk.js",
+    "main.js.map": "/caubesin/music-app/static/js/main.a6d97077.chunk.js.map",
+    "runtime-main.js": "/caubesin/music-app/static/js/runtime-main.f00252d3.js",
+    "runtime-main.js.map": "/caubesin/music-app/static/js/runtime-main.f00252d3.js.map",
+    "static/css/2.4be38407.chunk.css": "/caubesin/music-app/static/css/2.4be38407.chunk.css",
+    "static/js/2.ec205be5.chunk.js": "/caubesin/music-app/static/js/2.ec205be5.chunk.js",
+    "static/js/2.ec205be5.chunk.js.map": "/caubesin/music-app/static/js/2.ec205be5.chunk.js.map",
+    "index.html": "/caubesin/music-app/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/caubesin/music-app/static/css/2.4be38407.chunk.css.map",
+    "static/js/2.ec205be5.chunk.js.LICENSE.txt": "/caubesin/music-app/static/js/2.ec205be5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f00252d3.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.ec205be5.chunk.js",
+    "static/js/main.a6d97077.chunk.js"
+  ]
+}
